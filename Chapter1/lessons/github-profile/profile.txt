@@ -1,6 +1,6 @@
-Name:
-Grade:
-Favorite Programming Language:
-Favorite Thing About Computer Science:
-Something I Am Good At:
-Something I Want To Learn:
+Name: Rohan Grover
+Grade: 10th
+Favorite Programming Language: Python 
+Favorite Thing About Computer Science: Learning
+Something I Am Good At: Basic Programming
+Something I Want To Learn: C++
