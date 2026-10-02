@@ -4,6 +4,7 @@
  * Rohan Grover
  * 10/2/2026
  */
+
 public class WeatherForecast
 {
     //define an enum for fixed weather categories
@@ -15,8 +16,7 @@ public class WeatherForecast
     Windy,
     Snowy
     }
-
-    public static void main(String args[]){
+    public static void main(String args[]) {
         //creating a counter var to count the number of rainy days
         int rainyDays = 0;
         
